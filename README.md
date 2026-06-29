@@ -5,10 +5,7 @@ Tento repozitář obsahuje semestrální projekt zaměřený na zpracování 3D 
 
 Cílem projektu je vývoj a implementace algoritmu pro detekování význačných rysů a následnou efektivní extrakci topologického skeletu (kostry) 3D objektů.
 
-## Teoretický základ
 Implementace je založena na detailním studiu vědecké publikace *„Geometric Understanding of Point Clouds Using Laplace-Beltrami Operator“* z oblasti spektrální geometrie. 
-
-Algoritmus odhaduje diskrétní Laplace-Beltramiův operátor na mračnu bodů pomocí lokální aproximace povrchu polynomy 2. řádu s přihlédnutím k riemannovské metrice. Následná spektrální analýza (výpočet Fiedlerova vektoru) umožňuje vrstevnatou segmentaci objektu a konstrukci výsledné kostry.
 
 ## Struktura projektu
 
