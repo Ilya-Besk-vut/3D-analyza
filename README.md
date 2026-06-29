@@ -15,7 +15,7 @@ Projekt je rozdělen do logických celků (kód a data) pro optimalizaci výpoč
 
 ## Výsledky vizualizace
 
-Níže jsou zobrazeny výsledky běhu algoritmu na zmenšeném modelu:
+Níže jsou zobrazeny výsledky běhu algoritmu:
 
 <img width="1971" height="901" alt="panacek_cely_test_level_contours" src="https://github.com/user-attachments/assets/a6282376-c45d-4cc6-bf9c-41a3ca89e847" />
 <img width="595" height="856" alt="panacek_cely_test_otrisovki_2" src="https://github.com/user-attachments/assets/29c7eca7-1384-42dc-8ef6-c25c32d3b3de" />
