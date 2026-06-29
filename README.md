@@ -1,4 +1,3 @@
-# 3D-analyza
 # Spektrální geometrie: Extrakce kostry 3D modelů pomocí Laplace-Beltramiova operátoru
 
 Tento repozitář obsahuje semestrální projekt zaměřený na zpracování 3D mračen bodů a analýzu jejich diferenciální geometrie v prostředí MATLAB.
